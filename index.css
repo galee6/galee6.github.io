@@ -1,0 +1,17 @@
+:root{
+    --medium_blue: #1074b3;
+    --light_orange: #fff5e3;
+    --white: #ffffff
+}
+
+h1, h2 {
+    color: var(--medium_blue);
+}
+
+.box {
+    padding: 5px;
+    padding-left: 15px;
+    margin: 5%;
+    background-color: var(--light_orange);
+    box-shadow: 10px 10px var(--medium blue);
+}
